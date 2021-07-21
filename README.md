@@ -6,7 +6,7 @@
 
 The spatio-temporal scales of coral reef fish ecological research and management: a systematic evidence map
 
-<img src="images/fish.JPG" height="50%" width="80%" />
+<img src="images/fish.jpg" height="50%" width="80%" />
 
 ### Project objectives: ### 
 
@@ -31,7 +31,7 @@ Collaborators
 
 #### Methods protocol published January 2021, [read here](rdcu.be/cecKn) ####
 
-<img src="images/divers.JPG" height="50%" width="80%" />
+<img src="images/divers.jpg" height="50%" width="80%" />
 
 ### Goals for the week: ### 
 
@@ -47,9 +47,13 @@ Collaborators
 
 - @FarrahPowell
 
+<<<<<<< HEAD
 - Adel Heenan
 
 <img src="images/map.JPG" height="50%" width="80%" />
+=======
+<img src="images/map.jpg" height="50%" width="80%" />
+>>>>>>> 6daaadf2c09af03ca9badaf30c7fab4b14a647ae
 
 
 >>>>>>> 7422a454cf1d33ba96d966226a16c3f4efa1b912
