@@ -2,8 +2,6 @@
 
 ## what's it all about?
 
-
-
 =========
 
 Project Name: The spatio-temporal scales of coral reef fish ecological research and management: a systematic evidence map
