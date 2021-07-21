@@ -1,0 +1,8 @@
+Study_ID,Author,Year,Data_tyoe,Location_country ,Location _details,Latitude,Longitude,Ecological Study - Actual Extent ,Ecological Study - Total Extent  ,Data sources,Social science methods,Analytical approach ,Social resolution    ,Social Study - Actual Extent ,Social Study - Total Extent  ,MGMT recommendation,MGMT rec - Actual Extent,MGMT rec - Total Extent
+1,Kittinger   ,2013,Social & Ecological,USA,"Maunalua Bay, Hawaii",21.281425,-157.713142,17,980,primary,interview,Mixed,Individual,Community,Sub-regional,broad,Village,Sub-regional
+2,Cinner,2009,Social & Ecological,"?Kenya, Tanzania, Seychelles, Mauritius, and Madagascar",na ,-11.876298,49.18335,60000,150000,mixed,Survey - household,Quantitative,Household ,communiy,national ,MPA - no take,Village,national 
+3,Pavlowich,2019,Social & Ecological,Dominican Republic,Buen Hombre,19.87154,-71.384108,5150,46000,na,na,na,na,na,na,na,na,na
+4,Guillemot   ,2014,Social & Ecological,New Caledonia,New Caledonia,-21.532359,165.223272,130000,2770.7,secondary,Survey - Targeted ,Quantitative,Individual,Watershed,State,Fisheries regulations,Watershed   ,Sub-regional
+5,Brown,2017,Ecological,Fiji,Vanua Levu,-16.786398,178.808245,41500,1620,na,na,na,na,na,na,Watershed - LBSP,Watershed   ,District
+6,Taylor  ,2015,Social & Ecological,Micronesia,Caroline island chain and Marina arc,10.10523,149.197891,277200,670000,mixed,historical creel survey data,Quantitative,User group - fishers,Watershed,National,Fisheries regulations,Watershed,National
+7,Robertson   ,2019,Social ,Tanzania,"Rufiji District, Pangani District",-7.250016,38.589249,na,na,primary,Survey - Targeted ,Quantitative,User group - fishers,District,State,MPA ,Village,District
