@@ -10,3 +10,9 @@ b) Understand the scale mismatch between:
 empirical / field observations (ecological & social)
 management recommendations and inferences made
 c) 	Identify gaps in evidence base – systematic, transparent and repeatable
+
+
+Collaborators
+- Alice Lawrence
+- Lucy Southworth
+- Farrah Powell
