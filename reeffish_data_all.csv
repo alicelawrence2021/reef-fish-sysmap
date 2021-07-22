@@ -1,0 +1,201 @@
+Study_ID,Author,Year,Location_country ,Location _details,lat,long,eco_actual,eco_total,Social_method,social_mgmt
+1,Kittinger   ,2013,USA,Maunalua Bay,21.281425,-157.713142,1354,494214,Individual,Sub-regional
+2,Cinner,2009,Kenya,Kilifi,-11.876298,49.18335,1748,623654,Household ,national 
+3,Pavlowich,2019,Dominican Republic,Buen Hombre,19.87154,-71.384108,4584,490238,Individual,District
+4,Guillemot   ,2014,New Caledonia,Paita,-21.532359,165.223272,298,194342,Individual,Sub-regional
+5,Brown,2017,Fiji,Vanua Levu,-16.786398,178.808245,2052,220766,Individual,District
+6,Taylor  ,2015,Micronesia,Marinas,10.10523,149.197891,745,189955,User group - fishers,National
+7,Robertson   ,2019,Tanzania,Rufiji District,-7.250016,38.589249,3035,403598,User group - fishers,District
+8,Cook,2014,Bahamas,Bahamas,24.69771694,-78.00184324,4768,193203,Watershed,Sub-Regional 
+9,Selby,2011,Belize,South  Water  Cay ,16.809611,-88.081874,214,387868,Community ,State 
+10,Fredston-Hermann,2019,Borneo,Sipidan Island,4.115789,118.626971,2274,565250,National ,International
+11,Puk,2019,Brazil,Armação dos Búzios,-22.75,-41.883333,881,309798,Household,Regional
+12,Gomes Santos,2013,Brazil,Pernambuco ,-8.533333,-35,542,153346,Community ,Watershed
+13,Locham,2014,Cabo Verde,Cabo Verde,16.1363376,-23.88508538,316,313458,Sub-Regional ,National 
+14,Stoner,2011,Canary Islands,Punta Hidalgo,28.834028,-16.819056,3925,311274,Individual,Sub-Regional 
+15,Bonin,2013,Canary Islands,Gran Canaria,28.20284918,-15.43748733,250,337889,Community ,State 
+16,Giardino,2011,Canary Islands,Tenerife,28.550907,-15.683708,4710,65046,Village,Community 
+17,Long,2012,China,Hainan,19.21981379,109.7048544,155,455965,Household,Regional
+18,Jerabek,2012,Cook Islands,Matavera,-21.21850002,-159.7321559,2464,308354,National ,Regional
+19,McClanahan,2017,Cook Islands,Aroa Beach,-21.25712999,-159.817014,1760,689209,Household,Regional
+20,Roberts,2016,Curacao,Curacao,12.225607,-68.993465,385,542258,Individual,International
+21,Chin,2016,Florida,Pulley Ridge,24.75,-83.75,1942,181015,National ,National 
+22,Poulos,2011,French  Polynesia,Tubuai,-23.33360146,-149.4680651,2306,479134,Individual,Regional
+23,Ghazilou,2015,French Polynesia,Gambier Islands,-23.112566,-134.963119,1637,59269,State ,State 
+24,Manriquez,2010,French Polynesia,Moorea,-17.477066,-149.882008,1144,48731,Sub-Regional ,National 
+25,Wilson,2019,French Polynesia,Moruroa,-21.80824384,-138.8896986,549,439902,User groups,Regional
+26,Lastras,2010,French Polynesia,Otepa,-17.95619244,-140.9005127,1889,653012,Community ,State 
+27,DiBattista,2017,French Polynesia,"Mahu, Tubuai",-23.33360146,-149.4680651,287,659857,Village,State 
+28,Dalziell,2021,Hawaii,Waikiki beach,21.27597493,-157.827505,2413,304219,Household,National 
+29,Freed,2020,Japan,Iriomote-jima  Isl.,25.30360922,123.976795,2161,110034,Individual,International
+30,van der Lee,2012,Japan,Aka-jima ,26.20217252,127.2785052,1757,174735,Village,State 
+31,Hidayah,2013,Japan,Kashiwa-jima Isl.,32.76933248,132.6232378,743,655916,Watershed,Regional
+32,Bernard,2017,Japan,Mie?,34.202875,136.419645,2232,608019,Individual,User groups
+33,Maynard,2010,Japan,Mito,36.303615,140.662294,2475,564748,Sub-Regional ,Sub-Regional 
+34,Hoenner,2015,Kiribati,Marakei Island,1.988811545,173.2835764,4884,410309,Individual,Regional
+35,McCoshum,2017,Madeira Island,Funcha,32.636167,-16.935167,4977,641582,User groups,Watershed
+36,Tusso,2013,Malaysia,Rawa Island,3.551609735,104.1516622,3981,693016,Village,State 
+37,Cribb,2020,Marshall islands,majuro,7.04625,171.327092,3474,415767,Village,User groups
+38,Horowitz,2018,morocco,Dakhla,23.72646128,-15.83391377,4850,222251,User groups,Sub-Regional 
+39,Bautista-Guerrero,2021,New Zealand,Kermadec Islands,-30.23202769,-178.4303165,4839,451345,User groups,User groups
+40,Selwyn,2021,New Zealand,Rangitahua,-29.26487782,-177.9280268,477,694800,Village,International
+41,Suchley,2015,New Zealand,Kermadec Islands,-30.23202769,-178.4303165,2245,552566,Household,User groups
+42,Bernal,2015,New Zealand,North Meyer Island,-29.242484,-177.87701,4727,277609,Watershed,National 
+43,Veeruraj,2019,NewZealand,North Meyer Island,-29.241417,-177.87862,554,638565,Sub-Regional ,National 
+44,Ateweberhan,2020,Cuba,Jaimanitas  ,23.093692,-82.489128,2803,271666,Community ,Regional
+45,Salvat,2021,Pakistan,Balochistan,24.899472,66.603649,1927,140296,User groups,Sub-Regional 
+46,Davis,2013,Tonga,Tonga,-20.94397947,-175.2791265,4510,332052,User groups,International
+47,Reuter,2019,US Virgin Islands,St. Croix,17.74270947,-64.83669128,1747,89861,Regional,Regional
+48,Welch,2012,USA,Florida Keys,24.748474,-81.096989,228,671983,State ,Regional
+49,Maina,2017,Vietnam,Vietnam,13.379662,109.327895,1956,524643,National ,Regional
+50,Gove,2016,South Korea,South Korea,34.66086539,127.6862573,4500,286233,State ,Regional
+51,O'Farrell,2014,Puerto Rico,Puerto Rico,18.048603,-66.437065,2305,547485,Village,Village
+52,Brouwer,2010,Guam,Guam,13.43997224,144.78877,2477,554155,Village,Watershed
+53,Galzin,2016,Papua New Guinea,Papua New Guinea,-6.487742152,144.2324476,3083,195575,Individual,Watershed
+54,Kline,2011,Soloman Islands,Soloman Islands,-9.675755028,160.0613553,3963,93131,State ,Regional
+55,Coppock,2010,Wallis and Futuna,Wallis and Futuna,-14.2838256,-178.1345748,2473,224676,Watershed,Regional
+56,Kramer,2019,Fiji,Fiji,-17.87035796,178.0403214,4855,257836,Village,Village
+57,Young,2021,Vanuatu,Vanuatu,-15.24118148,166.8318168,1417,661956,Household,User groups
+58,Poloczanska,2011,New Caledonia,New Caledonia,-21.3141282,165.434481,2797,26518,Village,International
+59,Agudo-Adriani,2014,Niue,Niue,-19.07355228,-169.8491612,3258,368091,Village,Village
+60,Ejbye-Ernst,2015,Samoa,Samoa,-13.63911285,-172.4272239,1051,686573,State ,State 
+61,Burt,2018,Northern Mariana Islds.,Northern Mariana Islds.,16.055371,145.944351,2013,488746,Household,International
+62,Buston,2014,Bahamas,Bahamas,24.69771694,-78.00184324,4549,141876,National ,National 
+63,Johansen,2016,Belize,South  Water  Cay ,16.809611,-88.081874,109,118012,Village,Regional
+64,Caronni,2021,Borneo,Sipidan Island,4.115789,118.626971,2155,409796,Household,User groups
+65,Quimpo,2013,Brazil,Armação dos Búzios,-22.75,-41.883333,4215,395257,Household,State 
+66,Harrould-Kolieb,2018,Brazil,Pernambuco ,-8.533333,-35,2469,373343,Household,National 
+67,Ordines,2020,Cabo Verde,Cabo Verde,16.1363376,-23.88508538,3819,291209,Individual,Watershed
+68,Hayes,2021,Canary Islands,Punta Hidalgo,28.834028,-16.819056,4330,678556,Watershed,Regional
+69,Croquer,2021,Canary Islands,Gran Canaria,28.20284918,-15.43748733,1525,420166,Sub-Regional ,Sub-Regional 
+70,Abesamis,2014,Canary Islands,Tenerife,28.550907,-15.683708,95,398292,Individual,Village
+71,Velasco-Blanco,2019,China,Hainan,19.21981379,109.7048544,3326,240110,Village,International
+72,Berry,2010,Cook Islands,Matavera,-21.21850002,-159.7321559,1012,615013,Watershed,National 
+73,Cinner,2021,Cook Islands,Aroa Beach,-21.25712999,-159.817014,1504,190394,Watershed,Sub-Regional 
+74,Vermeij,2012,Curacao,Curacao,12.225607,-68.993465,1917,348161,Watershed,International
+75,Tseng,2021,Florida,Pulley Ridge,24.75,-83.75,4974,312137,Community ,International
+76,Leal,2021,French  Polynesia,Tubuai,-23.33360146,-149.4680651,1197,220062,Village,International
+77,Lukowiak,2014,French Polynesia,Gambier Islands,-23.112566,-134.963119,4115,562048,National ,National 
+78,Gutknecht,2011,French Polynesia,Moorea,-17.477066,-149.882008,3991,254387,Sub-Regional ,Sub-Regional 
+79,Battista,2012,French Polynesia,Moruroa,-21.80824384,-138.8896986,4439,178015,State ,International
+80,Bobiles,2015,French Polynesia,Otepa,-17.95619244,-140.9005127,2760,26634,Community ,User groups
+81,Bento,2011,French Polynesia,"Mahu, Tubuai",-23.33360146,-149.4680651,2092,653931,Individual,Sub-Regional 
+82,Weijerman,2015,Hawaii,Waikiki beach,21.27597493,-157.827505,4803,572204,Household,International
+83,Bridge,2013,Japan,Iriomote-jima  Isl.,25.30360922,123.976795,1519,186318,Individual,State 
+84,Pinheiro,2011,Japan,Aka-jima ,26.20217252,127.2785052,3749,311741,Watershed,National 
+85,Johnston,2021,Japan,Kashiwa-jima Isl.,32.76933248,132.6232378,147,645530,Household,Community 
+86,Harford,2011,Japan,Mie?,34.202875,136.419645,4317,274986,Community ,International
+87,Mann,2014,Japan,Mito,36.303615,140.662294,2393,89887,Community ,Regional
+88,Lavides,2020,Kiribati,Marakei Island,1.988811545,173.2835764,4577,247910,Household,National 
+89,Berthe,2019,Madeira Island,Funcha,32.636167,-16.935167,164,232585,Household,Watershed
+90,Hall,2016,Malaysia,Rawa Island,3.551609735,104.1516622,4397,223269,Village,State 
+91,Terribile,2017,Marshall islands,majuro,7.04625,171.327092,1805,290057,State ,International
+92,Montanari,2018,morocco,Dakhla,23.72646128,-15.83391377,2473,265161,Household,Community 
+93,Hedley,2019,New Zealand,Kermadec Islands,-30.23202769,-178.4303165,2088,313127,Household,Watershed
+94,Leenhardt,2019,New Zealand,Rangitahua,-29.26487782,-177.9280268,2989,467617,Individual,Regional
+95,Trianni,2012,New Zealand,Kermadec Islands,-30.23202769,-178.4303165,1694,284553,Village,International
+96,McCormick,2012,New Zealand,North Meyer Island,-29.242484,-177.87701,4894,405745,User groups,User groups
+97,Martinez-Daranas,2011,NewZealand,North Meyer Island,-29.241417,-177.87862,509,124061,User groups,State 
+98,Shen,2017,Cuba,Jaimanitas  ,23.093692,-82.489128,3460,500770,Village,User groups
+99,Kuwamura,2017,Pakistan,Balochistan,24.899472,66.603649,1386,649167,Village,Watershed
+100,Hehre,2011,Tonga,Tonga,-20.94397947,-175.2791265,3468,17584,Community ,Sub-Regional 
+101,Hodge,2018,US Virgin Islands,St. Croix,17.74270947,-64.83669128,4902,492209,State ,State 
+102,Doropoulos,2016,USA,Florida Keys,24.748474,-81.096989,499,502734,Sub-Regional ,State 
+103,Robbins,2019,Vietnam,Vietnam,13.379662,109.327895,3200,496200,Village,State 
+104,Olds,2021,South Korea,South Korea,34.66086539,127.6862573,1700,158118,Community ,National 
+105,Belbin,2017,Puerto Rico,Puerto Rico,18.048603,-66.437065,928,69370,Village,User groups
+106,Ross,2014,Guam,Guam,13.43997224,144.78877,3913,265493,Community ,Sub-Regional 
+107,Bogdanov,2010,Papua New Guinea,Papua New Guinea,-6.487742152,144.2324476,1347,427905,Regional,Regional
+108,Hoey,2010,Soloman Islands,Soloman Islands,-9.675755028,160.0613553,3467,426017,Sub-Regional ,National 
+109,Cameron,2017,Wallis and Futuna,Wallis and Futuna,-14.2838256,-178.1345748,3385,544826,Sub-Regional ,State 
+110,McMahon,2013,Fiji,Fiji,-17.87035796,178.0403214,3858,494020,Community ,International
+111,Shulzitski,2017,Vanuatu,Vanuatu,-15.24118148,166.8318168,12,470536,Community ,State 
+112,Robitzch,2014,New Caledonia,New Caledonia,-21.3141282,165.434481,4131,654463,User groups,National 
+113,Li,2011,Niue,Niue,-19.07355228,-169.8491612,3520,471443,Sub-Regional ,Regional
+114,Hopf,2016,Samoa,Samoa,-13.63911285,-172.4272239,3950,60193,Individual,Regional
+115,Nelson,2015,Northern Mariana Islds.,Northern Mariana Islds.,16.055371,145.944351,3181,552423,Watershed,Sub-Regional 
+116,Frisch,2010,Bahamas,Bahamas,24.69771694,-78.00184324,998,634088,Individual,Regional
+117,Kubicek,2020,Belize,South  Water  Cay ,16.809611,-88.081874,140,632094,Sub-Regional ,National 
+118,Bozec,2013,Borneo,Sipidan Island,4.115789,118.626971,461,423395,Village,Regional
+119,Kendall,2017,Brazil,Armação dos Búzios,-22.75,-41.883333,3793,296658,Village,National 
+120,Catano,2014,Brazil,Pernambuco ,-8.533333,-35,54,73990,Individual,User groups
+121,Waheed,2013,Cabo Verde,Cabo Verde,16.1363376,-23.88508538,3188,344399,Household,Watershed
+122,Weijerman,2012,Canary Islands,Punta Hidalgo,28.834028,-16.819056,179,157934,Community ,Community 
+123,Begin,2015,Canary Islands,Gran Canaria,28.20284918,-15.43748733,4428,343138,State ,State 
+124,Ong,2013,Canary Islands,Tenerife,28.550907,-15.683708,4116,224080,Sub-Regional ,Sub-Regional 
+125,Richards,2014,China,Hainan,19.21981379,109.7048544,416,98393,State ,Regional
+126,Marques,2015,Cook Islands,Matavera,-21.21850002,-159.7321559,2381,438087,Village,Watershed
+127,Johnston,2014,Cook Islands,Aroa Beach,-21.25712999,-159.817014,3475,376454,Community ,Community 
+128,Ghazilou,2012,Curacao,Curacao,12.225607,-68.993465,3538,368242,Household,Village
+129,Ritterbush,2010,Florida,Pulley Ridge,24.75,-83.75,3792,367846,Regional,Regional
+130,Xu,2021,French  Polynesia,Tubuai,-23.33360146,-149.4680651,4473,242319,Community ,User groups
+131,Jimenez,2010,French Polynesia,Gambier Islands,-23.112566,-134.963119,4930,590185,Village,Regional
+132,Eastwood,2013,French Polynesia,Moorea,-17.477066,-149.882008,1528,66254,Village,Sub-Regional 
+133,Bode,2018,French Polynesia,Moruroa,-21.80824384,-138.8896986,2823,578244,Village,National 
+134,Mayorga-Adame,2013,French Polynesia,Otepa,-17.95619244,-140.9005127,1044,13782,Individual,International
+135,Rogers,2012,French Polynesia,"Mahu, Tubuai",-23.33360146,-149.4680651,2497,600799,National ,National 
+136,Kruse,2012,Hawaii,Waikiki beach,21.27597493,-157.827505,1222,12229,Community ,State 
+137,Cinner,2017,Japan,Iriomote-jima  Isl.,25.30360922,123.976795,3209,116567,Sub-Regional ,Regional
+138,Plass-Johnson,2020,Japan,Aka-jima ,26.20217252,127.2785052,3371,186966,Sub-Regional ,Regional
+139,Mellin,2011,Japan,Kashiwa-jima Isl.,32.76933248,132.6232378,4558,302540,Household,State 
+140,Champion,2011,Japan,Mie?,34.202875,136.419645,1234,427477,User groups,User groups
+141,Noges,2021,Japan,Mito,36.303615,140.662294,841,19072,Watershed,Regional
+142,Thillainath,2016,Kiribati,Marakei Island,1.988811545,173.2835764,3689,366006,State ,International
+143,Johan,2016,Madeira Island,Funcha,32.636167,-16.935167,1010,476367,User groups,International
+144,Silva,2014,Malaysia,Rawa Island,3.551609735,104.1516622,788,125579,Watershed,State 
+145,Tilley,2013,Marshall islands,majuro,7.04625,171.327092,4399,219112,Individual,Village
+146,Specht,2021,morocco,Dakhla,23.72646128,-15.83391377,669,431936,Individual,Community 
+147,Javier Murillo,2010,New Zealand,Kermadec Islands,-30.23202769,-178.4303165,4145,386680,Individual,International
+148,Guo,2012,New Zealand,Rangitahua,-29.26487782,-177.9280268,1568,438244,User groups,Sub-Regional 
+149,Galaz,2012,New Zealand,Kermadec Islands,-30.23202769,-178.4303165,2173,615966,Regional,International
+150,Aschenbrenner,2014,New Zealand,North Meyer Island,-29.242484,-177.87701,3302,201312,Watershed,State 
+151,Greer,2012,NewZealand,North Meyer Island,-29.241417,-177.87862,3202,381461,Watershed,State 
+152,Lederhouse,2016,Cuba,Jaimanitas  ,23.093692,-82.489128,389,257916,Regional,International
+153,Cherubin,2010,Pakistan,Balochistan,24.899472,66.603649,1549,620697,Community ,Watershed
+154,Lee,2019,Tonga,Tonga,-20.94397947,-175.2791265,141,9671,Community ,Watershed
+155,Dey,2012,US Virgin Islands,St. Croix,17.74270947,-64.83669128,4848,103687,State ,Regional
+156,Martinez,2015,USA,Florida Keys,24.748474,-81.096989,1566,578443,State ,Regional
+157,Havel,2013,Vietnam,Vietnam,13.379662,109.327895,220,545933,Regional,International
+158,Marques,2020,South Korea,South Korea,34.66086539,127.6862573,4123,301617,Watershed,State 
+159,McClanahan,2018,Puerto Rico,Puerto Rico,18.048603,-66.437065,3241,594487,National ,International
+160,Wickel,2021,Guam,Guam,13.43997224,144.78877,4949,292620,Regional,International
+161,Solomon-Lane,2013,Papua New Guinea,Papua New Guinea,-6.487742152,144.2324476,1965,255419,Watershed,State 
+162,Bryan,2017,Soloman Islands,Soloman Islands,-9.675755028,160.0613553,4530,55926,Sub-Regional ,National 
+163,Zaneveld,2019,Wallis and Futuna,Wallis and Futuna,-14.2838256,-178.1345748,4652,681461,Sub-Regional ,National 
+164,Yabsley,2010,Fiji,Fiji,-17.87035796,178.0403214,1184,699060,State ,Regional
+165,Wilkins,2012,Vanuatu,Vanuatu,-15.24118148,166.8318168,841,75923,Regional,International
+166,Roue,2012,New Caledonia,New Caledonia,-21.3141282,165.434481,4766,355217,National ,International
+167,Vieira,2016,Niue,Niue,-19.07355228,-169.8491612,1759,258236,User groups,Sub-Regional 
+168,Ghazilou,2016,Samoa,Samoa,-13.63911285,-172.4272239,1756,49075,User groups,Sub-Regional 
+169,Irisson,2016,Northern Mariana Islds.,Northern Mariana Islds.,16.055371,145.944351,3005,436077,Regional,International
+170,Priest,2020,Bahamas,Bahamas,24.69771694,-78.00184324,427,7449,State ,Regional
+171,Leahy,2014,Belize,South  Water  Cay ,16.809611,-88.081874,3842,649334,Regional,International
+172,Ruiz,2019,Borneo,Sipidan Island,4.115789,118.626971,4704,657496,User groups,Sub-Regional 
+173,Zhang,2017,Brazil,Armação dos Búzios,-22.75,-41.883333,2630,122115,Sub-Regional ,National 
+174,Andrea Bedoya-Gutierrez,2012,Brazil,Pernambuco ,-8.533333,-35,2268,451277,National ,International
+175,Morgan,2015,Cabo Verde,Cabo Verde,16.1363376,-23.88508538,4138,17054,State ,Regional
+176,Figueiredo,2021,Canary Islands,Punta Hidalgo,28.834028,-16.819056,4125,557942,Regional,International
+177,Petrossian,2017,Canary Islands,Gran Canaria,28.20284918,-15.43748733,4810,533155,Regional,International
+178,Nash,2014,Canary Islands,Tenerife,28.550907,-15.683708,667,374789,Sub-Regional ,National 
+179,Ketchum,2010,China,Hainan,19.21981379,109.7048544,582,244438,State ,Regional
+180,Bode,2017,Cook Islands,Matavera,-21.21850002,-159.7321559,4133,381599,State ,Regional
+181,Zauner,2016,Cook Islands,Aroa Beach,-21.25712999,-159.817014,4397,78845,User groups,Sub-Regional 
+182,D'agata,2016,Curacao,Curacao,12.225607,-68.993465,1948,633079,State ,Regional
+183,Melianawati,2012,Florida,Pulley Ridge,24.75,-83.75,1619,479347,State ,Regional
+184,Kritzer,2013,French  Polynesia,Tubuai,-23.33360146,-149.4680651,3397,583177,Sub-Regional ,National 
+185,Huang,2019,French Polynesia,Gambier Islands,-23.112566,-134.963119,4980,216437,Regional,International
+186,Conand,2015,French Polynesia,Moorea,-17.477066,-149.882008,3505,207166,National ,International
+187,Selkoe,2020,French Polynesia,Moruroa,-21.80824384,-138.8896986,4291,353258,State ,Regional
+188,Su,2015,French Polynesia,Otepa,-17.95619244,-140.9005127,1101,345955,State ,Regional
+189,Waldie,2018,French Polynesia,"Mahu, Tubuai",-23.33360146,-149.4680651,1045,114812,National ,International
+190,Harborne,2011,Hawaii,Waikiki beach,21.27597493,-157.827505,3294,693389,State ,Regional
+191,Wenger,2013,Japan,Iriomote-jima  Isl.,25.30360922,123.976795,2814,473828,Regional,International
+192,Jaiteh,2018,Japan,Aka-jima ,26.20217252,127.2785052,1506,699311,National ,International
+193,Wenger,2014,Japan,Kashiwa-jima Isl.,32.76933248,132.6232378,1131,630695,State ,Regional
+194,Paransa,2020,Japan,Mie?,34.202875,136.419645,4133,403431,National ,International
+195,Khan,2014,Japan,Mito,36.303615,140.662294,3376,659170,User groups,Sub-Regional 
+196,Hopf,2017,Kiribati,Marakei Island,1.988811545,173.2835764,694,82247,Watershed,State 
+197,Obolski,2010,Madeira Island,Funcha,32.636167,-16.935167,913,38532,User groups,Sub-Regional 
+198,Castellanos-Gell,2013,Malaysia,Rawa Island,3.551609735,104.1516622,4796,147278,State ,Regional
+199,Bouchon,2010,Marshall islands,majuro,7.04625,171.327092,4194,611683,National ,International
+200,Kroeker,2020,morocco,Dakhla,23.72646128,-15.83391377,2948,395577,Community ,Watershed
