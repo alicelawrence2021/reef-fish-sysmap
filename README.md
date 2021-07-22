@@ -19,7 +19,7 @@ that scale at which management inferences are made
 
 #### Methods protocol published January 2021, [read here](rdcu.be/cecKn) ####
 
-<img src="images/divers.jpg" height="30%" width="50%" />
+<img src="images/map.jpg" height="30%" width="50%" />
 
 ### Goals for the week: ### 
 
@@ -60,6 +60,6 @@ that scale at which management inferences are made
 <img src="images/logos.jpg" height="30%" width="50%" />
 
 
-<img src="images/map.jpg" height="30%" width="50%" />
+<img src="images/divers.jpg" height="30%" width="50%" />
 
 
