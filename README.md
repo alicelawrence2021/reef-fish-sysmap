@@ -57,6 +57,8 @@ that scale at which management inferences are made
 
 - Dr. Gareth J. Williams (University of Bangor, UK)
 
+<img src="images/logos.jpg" height="30%" width="50%" />
+
 
 <img src="images/map.jpg" height="30%" width="50%" />
 
