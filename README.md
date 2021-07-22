@@ -1,6 +1,6 @@
 # reef-fish-sysmap
 
-## what's it all about?
+## What's it all about?
 
 ### Project Name ###
 
@@ -12,11 +12,10 @@ The spatio-temporal scales of coral reef fish ecological research and management
 
 - Socio-ecological coral reef fish studies: what spatial and temporal scales have been used? 
 
-- Understand the scale mismatch between:  
-empirical / field observations (ecological & social)
-management recommendations and inferences made
-<<<<<<< HEAD
-c) 	Identify gaps in evidence base – systematic, transparent and repeatable
+- Understand the mismatches between the scale of empirical observations (ecological & social) AND 
+that scale at which management inferences are made
+
+- Identify gaps in evidence base – systematic, transparent and repeatable
 
 
 Collaborators
@@ -24,9 +23,6 @@ Collaborators
 - Lucy Southworth
 - Farrah Powell
 - Adel Heenan
-=======
-
-- Identify gaps in evidence base – systematic, transparent and repeatable
 
 
 #### Methods protocol published January 2021, [read here](rdcu.be/cecKn) ####
@@ -50,9 +46,5 @@ Collaborators
 - @AdelHeenan
 
 <img src="images/map.JPG" height="30%" width="50%" />
-=======
-<img src="images/map.jpg" height="50%" width="80%" />
->>>>>>> 6daaadf2c09af03ca9badaf30c7fab4b14a647ae
 
 
->>>>>>> 7422a454cf1d33ba96d966226a16c3f4efa1b912
