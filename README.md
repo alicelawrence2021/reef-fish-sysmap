@@ -51,7 +51,7 @@ that scale at which management inferences are made
 
 - Helen Ford (University of Bangor, UK)
 
-- Sivajyodee Sannassy Pilly(University of Bangor, UK)
+- Sivajyodee Sannassy Pilly (University of Bangor, UK)
 
 - Dr. Laura Richardson (University of Bangor, UK)
 
