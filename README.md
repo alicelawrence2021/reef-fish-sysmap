@@ -17,17 +17,9 @@ that scale at which management inferences are made
 
 - Identify gaps in evidence base – systematic, transparent and repeatable
 
-
-Collaborators
-- Alice Lawrence
-- Lucy Southworth
-- Farrah Powell
-- Adel Heenan
-
-
 #### Methods protocol published January 2021, [read here](rdcu.be/cecKn) ####
 
-<img src="images/divers.jpg" height="50%" width="80%" />
+<img src="images/divers.jpg" height="30%" width="50%" />
 
 ### Goals for the week: ### 
 
@@ -35,16 +27,37 @@ Collaborators
 
 - Can we develop an automated conversion factor based on geographical area and/or population of the study country?
 
-### Contact us on Twitter at: ### 
+### Collaborators ### 
 
-- @alice_fish00
+- Alice Lawrence (University of Bangor, UK) @alice_fish00
 
-- @SouthworthLucy
+- Lucy Southworth (University of Lancaster, UK) @SouthworthLucy
 
-- @FarrahPowell
+- Farrah Powell (San Diego State University, USA) @FarrahPowell
 
-- @AdelHeenan
+- Adel Heenan (Global Fishing Watch) @AdelHeenan
 
-<img src="images/map.JPG" height="30%" width="50%" />
+- Dr. Arielle Levine (San Diego State University, USA) 
+
+- Dr. Neal R Haddaway (Stockholm Environment Institute) 
+
+- Dr. Lisa Wedding (University of Oxford, UK) 
+
+- Dr. Ronan Roche (University of Bangor, UK)
+
+- Dr. Peter Lawrence (University of Bangor, UK)
+
+- Dr. Claire Szostek (University of Bangor, UK)
+
+- Helen Ford (University of Bangor, UK)
+
+- Sivajyodee Sannassy Pilly(University of Bangor, UK)
+
+- Dr. Laura Richardson (University of Bangor, UK)
+
+- Dr. Gareth J. Williams (University of Bangor, UK)
+
+
+<img src="images/map.jpg" height="30%" width="50%" />
 
 
