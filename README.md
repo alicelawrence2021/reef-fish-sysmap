@@ -35,7 +35,7 @@ that scale at which management inferences are made
 
 - Farrah Powell (San Diego State University, USA) @FarrahPowell
 
-- Adel Heenan (Global Fishing Watch) @AdelHeenan
+- Dr. Adel Heenan (Global Fishing Watch) @AdelHeenan
 
 - Dr. Arielle Levine (San Diego State University, USA) 
 
