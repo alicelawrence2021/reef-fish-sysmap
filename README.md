@@ -42,64 +42,89 @@ Use a systematic map process to understand:
 3. Data visualisation 
 
 
-##### 1. Data organisation #####
+#### 1. Data organisation ####
 
-- focus on key categories...from this...
+- focus on key categories...
+
+##### from this... #####
 
 <img src="images/metadata.jpg" height="50%" width="100%" />
 
 
-to this...
+##### to this... #####
 
 <img src="images/simple.jpg" height="50%" width="100%" />
 
 
 
-2. Solutions for integrating qualitative and quantitative data
+#### 2. Solutions for integrating qualitative and quantitative data ####
 
 convert quantitative ecological scale to a qualitative scale similar to social scale categories
 
 <img src="images/scales.jpg" height="30%" width="30%" />
 
 
-3. Data visualisation - better understanding of how to extract the data more effectively
+#### 3. Data visualisation - better understanding of how to extract the data more effectively ####
+
+- Heat map - visualise hotspots 
+
+Scale of Actual Extent of Ecological Observation vs Scale of Mangement Inference
+
+<img src="images/heatmap.jpg" height="50%" width="100%" />
 
 
-***insert images***
-- heat map
-- surface plot - 3D
-- map - Using population/ marine area to investigate patterns in scale mismatches between data collection and management inferences (how different in smaller island states). Possibly use GDP to identify differences related to the economy.
+- Surface plot (3D)
+
+x = Scale of Ecological Observation
+y = Scale of Social Observation 
+z = Scale of Management Inference
+
+<img src="images/surfaceplot.jpg" height="50%" width="100%" />
+
+#### Link to interactive plot [click here](https://lab.sesync.org/rstudio/files/reef-fish-sysmap/heat%20map%20incomplete.html) ####
+
+
+- Interactive Map 
+
+Using population density to investigate patterns in scale mismatches between data collection and management inferences 
+
+Could also use marine area (EEZ) or GDP
+
+<img src="images/map.jpg" height="50%" width="100%" />
 
 
 ### Lessons Learned: ### 
 
-- how to use git hub effectively
+- How to use git hub effectively
 
-- streamlined collaboration platforms
+- How to streamline collaboration platforms
 
-- reproducible workflows - how to organise project files and scripts before the next phase
+- How to create reproducible workflows --> essential for preparation for next phase of project)
 
-****from organising and visualising the data - new ideas / categories / reduction of effort needed
-
-****how will benefit the larger project - tools for the next phase, better preparation
+- Re-organising and visualising the data --> new categories will reducte effort needed for metadata extraction
 
 
+### New tools: ### 
+
+Implement some of new tools learned about during workshop:
+
+- Colandr app - open access machine learning for conducting systematic reviews (use for location data etc)
+
+- Environmental evidence database - interactive database of systematic maps
+
+- WWF Marine Ecoregions GIS database - data download for use in R
+
+- Contact with Samantha Cheng at American Museum of Natural History (systematic mapping experience)
 
 
 ### Next steps: ### 
 
-- amend metadata extraction questions (reduce length - will reduce reviewer time)
+- Continue screening and prepare for data extraction phase
 
-- ecological scale - consider just using categorical scale - substantial reduction in reviewer time
+- Reduce metadata extraction questions - more efficient
 
-- social scale - if want to quantify - need more time to calculate average village /  district sizes in each country
+- Quantifying the social scale categories - calculate average communities / district sizes for each country
 
-***tools learned about
-- colandr
-- machine learning - easy data extraction e.g. locations
-- Environmental evidence database - interactive map - database similar to this?
-
-****collaboration / contacts
 
 
 ### Team Members ### 
