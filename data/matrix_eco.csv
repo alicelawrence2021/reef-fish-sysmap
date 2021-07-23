@@ -1,0 +1,12 @@
+,1_Transect ,2_Patch reef,3_Village   ,4_Community,5_Watershed,6_Sub-Regional - district,7_Sub-Regional - island,8_State ,9_National,10_Regional ,11_International 
+1_Transect ,0,1,3,0,0,0,1,1,1,1,1
+2_Patch reef,0,0,1,0,0,0,1,0,1,1,0
+3_Village   ,0,0,0,2,1,0,0,2,2,0,0
+4_Community,0,0,0,0,2,0,0,0,1,0,1
+5_Watershed,0,0,0,0,0,3,0,1,0,1,0
+6_Sub-Regional - district,0,0,0,0,0,0,3,0,0,2,1
+7_Sub-Regional - island,0,0,0,0,0,0,0,6,1,3,2
+8_State ,0,0,0,0,0,0,0,1,4,1,0
+9_National,0,0,0,0,0,0,0,0,0,2,0
+10_Regional ,0,0,0,0,0,0,0,0,0,1,5
+11_International ,0,0,0,0,0,0,0,0,0,0,0

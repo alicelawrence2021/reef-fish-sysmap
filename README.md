@@ -17,7 +17,7 @@ that scale at which management inferences are made
 
 - Identify gaps in evidence base, in a  systematic, transparent and repeatable way
 
-#### Methods protocol published January 2021, [read here](rdcu.be/cecKn) ####
+#### Methods protocol published January 2021, [click here to read](rdcu.be/cecKn) ####
 
 <img src="images/paper.jpg" height="30%" width="80%" />
 

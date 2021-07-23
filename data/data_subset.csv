@@ -1,0 +1,155 @@
+Study_ID,Author,Year,Location_country ,Location _details,lat,long,eco_actual_extent,eco_total_extent,eco_actual_cat,eco_total_cat,social_method,social_mgmt
+1,Kittinger   ,2013,USA,Maunalua Bay,21.281425,-157.713142,1354,494214,1_Transect ,3_Village   ,1_Individual,7_Sub-Regional
+2,Cinner,2009,Kenya,Kilifi,-11.876298,49.18335,1748,623654,9_National,10_Regional ,2_Household,9_National
+3,Pavlowich,2019,Dominican Republic,Buen Hombre,19.87154,-71.384108,4584,490238,6_Sub-Regional - district,11_International ,1_Individual,7_Sub-Regional
+4,Guillemot   ,2014,New Caledonia,Paita,-21.532359,165.223272,298,194342,5_Watershed,6_Sub-Regional - district,1_Individual,7_Sub-Regional
+5,Brown,2017,Fiji,Vanua Levu,-16.786398,178.808245,2052,220766,7_Sub-Regional - island,10_Regional ,1_Individual,7_Sub-Regional
+6,Taylor  ,2015,Micronesia,Marinas,10.10523,149.197891,745,189955,1_Transect ,7_Sub-Regional - island,5_User groups,9_National
+7,Robertson   ,2019,Tanzania,Rufiji District,-7.250016,38.589249,3035,403598,4_Community,5_Watershed,5_User groups,7_Sub-Regional
+8,Cook,2014,Bahamas,Bahamas,24.69771694,-78.00184324,4768,193203,3_Village   ,4_Community,6_Watershed,7_Sub-Regional
+9,Selby,2011,Belize,South  Water  Cay ,16.809611,-88.081874,214,387868,1_Transect ,8_State ,4_Community,8_State 
+10,Fredston-Hermann,2019,Borneo,Sipidan Island,4.115789,118.626971,2274,565250,1_Transect ,2_Patch reef,9_National,11_International 
+11,Puk,2019,Brazil,Armação dos Búzios,-22.75,-41.883333,881,309798,10_Regional ,11_International ,2_Household,10_Regional 
+12,Gomes Santos,2013,Brazil,Pernambuco ,-8.533333,-35,542,153346,8_State ,8_State ,4_Community,10_Regional 
+13,Locham,2014,Cabo Verde,Cabo Verde,16.1363376,-23.88508538,316,313458,7_Sub-Regional - island,8_State ,7_Sub-Regional,10_Regional 
+14,Stoner,2011,Canary Islands,Punta Hidalgo,28.834028,-16.819056,3925,311274,3_Village   ,8_State ,1_Individual,10_Regional 
+15,Bonin,2013,Canary Islands,Gran Canaria,28.20284918,-15.43748733,250,337889,3_Village   ,8_State ,4_Community,10_Regional 
+16,Giardino,2011,Canary Islands,Tenerife,28.550907,-15.683708,4710,65046,7_Sub-Regional - island,8_State ,3_Village   ,10_Regional 
+17,Long,2012,China,Hainan,19.21981379,109.7048544,155,455965,1_Transect ,10_Regional ,2_Household,10_Regional 
+18,Jerabek,2012,Cook Islands,Matavera,-21.21850002,-159.7321559,2464,308354,4_Community,11_International ,9_National,10_Regional 
+19,McClanahan,2017,Cook Islands,Aroa Beach,-21.25712999,-159.817014,1760,689209,10_Regional ,11_International ,2_Household,10_Regional 
+20,Roberts,2016,Curacao,Curacao,12.225607,-68.993465,385,542258,6_Sub-Regional - district,10_Regional ,1_Individual,10_Regional 
+21,Chin,2016,Florida,Pulley Ridge,24.75,-83.75,1942,181015,2_Patch reef,10_Regional ,9_National,10_Regional 
+22,Poulos,2011,French  Polynesia,Tubuai,-23.33360146,-149.4680651,2306,479134,10_Regional ,11_International ,1_Individual,10_Regional 
+23,Ghazilou,2015,French Polynesia,Gambier Islands,-23.112566,-134.963119,1637,59269,4_Community,9_National,8_State ,10_Regional 
+24,Manriquez,2010,French Polynesia,Moorea,-17.477066,-149.882008,1144,48731,3_Village   ,9_National,7_Sub-Regional,10_Regional 
+25,Wilson,2019,French Polynesia,Moruroa,-21.80824384,-138.8896986,549,439902,7_Sub-Regional - island,8_State ,5_User groups,10_Regional 
+26,Lastras,2010,French Polynesia,Otepa,-17.95619244,-140.9005127,1889,653012,5_Watershed,10_Regional ,4_Community,10_Regional 
+27,DiBattista,2017,French Polynesia,"Mahu, Tubuai",-23.33360146,-149.4680651,287,659857,10_Regional ,11_International ,3_Village   ,10_Regional 
+28,Dalziell,2021,Hawaii,Waikiki beach,21.27597493,-157.827505,2413,304219,7_Sub-Regional - island,8_State ,2_Household,10_Regional 
+29,Freed,2020,Japan,Iriomote-jima  Isl.,25.30360922,123.976795,2161,110034,2_Patch reef,9_National,1_Individual,10_Regional 
+30,van der Lee,2012,Japan,Aka-jima ,26.20217252,127.2785052,1757,174735,6_Sub-Regional - district,10_Regional ,3_Village   ,10_Regional 
+31,Hidayah,2013,Japan,Kashiwa-jima Isl.,32.76933248,132.6232378,743,655916,7_Sub-Regional - island,10_Regional ,6_Watershed,10_Regional 
+32,Bernard,2017,Japan,Mie?,34.202875,136.419645,2232,608019,2_Patch reef,3_Village   ,1_Individual,10_Regional 
+33,Maynard,2010,Japan,Mito,36.303615,140.662294,2475,564748,8_State ,9_National,7_Sub-Regional,10_Regional 
+34,Hoenner,2015,Kiribati,Marakei Island,1.988811545,173.2835764,4884,410309,8_State ,9_National,1_Individual,10_Regional 
+35,McCoshum,2017,Madeira Island,Funcha,32.636167,-16.935167,4977,641582,6_Sub-Regional - district,7_Sub-Regional - island,5_User groups,10_Regional 
+36,Tusso,2013,Malaysia,Rawa Island,3.551609735,104.1516622,3981,693016,1_Transect ,11_International ,3_Village   ,10_Regional 
+37,Cribb,2020,Marshall islands,majuro,7.04625,171.327092,3474,415767,3_Village   ,5_Watershed,3_Village   ,10_Regional 
+38,Horowitz,2018,morocco,Dakhla,23.72646128,-15.83391377,4850,222251,9_National,10_Regional ,5_User groups,10_Regional 
+39,Bautista-Guerrero,2021,New Zealand,Kermadec Islands,-30.23202769,-178.4303165,4839,451345,8_State ,9_National,5_User groups,10_Regional 
+40,Selwyn,2021,New Zealand,Rangitahua,-29.26487782,-177.9280268,477,694800,7_Sub-Regional - island,8_State ,3_Village   ,10_Regional 
+41,Suchley,2015,New Zealand,Kermadec Islands,-30.23202769,-178.4303165,2245,552566,1_Transect ,3_Village   ,2_Household,10_Regional 
+42,Bernal,2015,New Zealand,North Meyer Island,-29.242484,-177.87701,4727,277609,2_Patch reef,7_Sub-Regional - island,6_Watershed,10_Regional 
+43,Veeruraj,2019,NewZealand,North Meyer Island,-29.241417,-177.87862,554,638565,7_Sub-Regional - island,11_International ,7_Sub-Regional,10_Regional 
+44,Ateweberhan,2020,Cuba,Jaimanitas  ,23.093692,-82.489128,2803,271666,1_Transect ,3_Village   ,4_Community,10_Regional 
+45,Salvat,2021,Pakistan,Balochistan,24.899472,66.603649,1927,140296,10_Regional ,11_International ,5_User groups,10_Regional 
+46,Davis,2013,Tonga,Tonga,-20.94397947,-175.2791265,4510,332052,1_Transect ,9_National,5_User groups,10_Regional 
+47,Reuter,2019,US Virgin Islands,St. Croix,17.74270947,-64.83669128,1747,89861,8_State ,9_National,10_Regional ,10_Regional 
+48,Welch,2012,USA,Florida Keys,24.748474,-81.096989,228,671983,3_Village   ,9_National,8_State ,10_Regional 
+49,Maina,2017,Vietnam,Vietnam,13.379662,109.327895,1956,524643,6_Sub-Regional - district,7_Sub-Regional - island,9_National,10_Regional 
+50,Gove,2016,South Korea,South Korea,34.66086539,127.6862573,4500,286233,10_Regional ,10_Regional ,8_State ,10_Regional 
+51,O'Farrell,2014,Puerto Rico,Puerto Rico,18.048603,-66.437065,2305,547485,4_Community,5_Watershed,3_Village   ,10_Regional 
+52,Brouwer,2010,Guam,Guam,13.43997224,144.78877,2477,554155,8_State ,10_Regional ,3_Village   ,10_Regional 
+53,Galzin,2016,Papua New Guinea,Papua New Guinea,-6.487742152,144.2324476,3083,195575,7_Sub-Regional - island,9_National,1_Individual,10_Regional 
+54,Kline,2011,Soloman Islands,Soloman Islands,-9.675755028,160.0613553,3963,93131,5_Watershed,8_State ,8_State ,10_Regional 
+55,Coppock,2010,Wallis and Futuna,Wallis and Futuna,-14.2838256,-178.1345748,2473,224676,7_Sub-Regional - island,11_International ,6_Watershed,10_Regional 
+56,Kramer,2019,Fiji,Fiji,-17.87035796,178.0403214,4855,257836,6_Sub-Regional - district,7_Sub-Regional - island,3_Village   ,3_Village   
+57,Young,2021,Vanuatu,Vanuatu,-15.24118148,166.8318168,1417,661956,5_Watershed,6_Sub-Regional - district,2_Household,5_User groups
+58,Poloczanska,2011,New Caledonia,New Caledonia,-21.3141282,165.434481,2797,26518,7_Sub-Regional - island,10_Regional ,3_Village   ,11_International 
+59,Agudo-Adriani,2014,Niue,Niue,-19.07355228,-169.8491612,3258,368091,5_Watershed,6_Sub-Regional - district,3_Village   ,3_Village   
+60,Ejbye-Ernst,2015,Samoa,Samoa,-13.63911285,-172.4272239,1051,686573,3_Village   ,4_Community,8_State ,8_State 
+61,Burt,2018,Northern Mariana Islds.,Northern Mariana Islds.,16.055371,145.944351,2013,488746,7_Sub-Regional - island,8_State ,2_Household,11_International 
+62,Buston,2014,Google earth coordinates in coral areas,,8.921895422,-77.99363661,4549,141876,,,,
+63,Johansen,2016,*extract country names using …?,,8.440022807,-78.96617277,109,118012,,,,
+64,Caronni,2021,library(sp),,7.509188234,-81.70593809,2155,409796,,,,
+65,Quimpo,2013,library(maps),,9.690807434,-84.98818809,4215,395257,,,,
+66,Harrould-Kolieb,2018,library(rgeos),,23.22884878,-81.91110238,2469,373343,,,,
+67,Ordines,2020,library(maptools),,21.63038647,-71.72494461,3819,291209,,,,
+68,Hayes,2021,,,18.01999171,-77.4081543,4330,678556,,,,
+69,Croquer,2021,,,18.88347815,-87.96748779,1525,420166,,,,
+70,Abesamis,2014,,,26.79940628,-78.27561112,95,398292,,,,
+71,Velasco-Blanco,2019,,,18.50239317,-66.46937015,3326,240110,,,,
+72,Berry,2010,,,11.85192717,-71.7614765,1012,615013,,,,
+73,Cinner,2021,,,11.11122563,-63.57050049,1504,190394,,,,
+74,Vermeij,2012,,,21.41793267,-73.47231457,1917,348161,,,,
+75,Tseng,2021,,,27.38866656,-80.37201105,4974,312137,,,,
+76,Leal,2021,,,15.79533228,-60.65600172,1197,220062,,,,
+77,Lukowiak,2014,,,11.40682927,-15.78924823,4115,562048,,,,
+78,Gutknecht,2011,,,4.196322281,9.531960929,3991,254387,,,,
+79,Battista,2012,,,17.13900572,42.62184993,4439,178015,,,,
+80,Bobiles,2015,,,28.69957593,33.75018611,2760,26634,,,,
+81,Bento,2011,,,15.7898299,40.01206574,2092,653931,,,,
+82,Weijerman,2015,,,19.13869652,37.83600544,4803,572204,,,,
+83,Bridge,2013,,,20.88935373,59.12951217,1519,186318,,,,
+84,Pinheiro,2011,,,25.10798195,51.72142428,3749,311741,,,,
+85,Johnston,2021,,,23.76421571,57.83671014,147,645530,,,,
+86,Harford,2011,,,12.68975989,54.16096512,4317,274986,,,,
+87,Mann,2014,,,10.52495928,51.25765331,2393,89887,,,,
+88,Lavides,2020,,,10.62805972,46.76229286,4577,247910,,,,
+89,Berthe,2019,,,-7.074039814,39.05563804,164,232585,,,,
+90,Hall,2016,,,-12.57981893,48.76365645,4397,223269,,,,
+91,Terribile,2017,,,-5.028905676,39.81343887,1805,290057,,,,
+92,Montanari,2018,,,-21.96183107,43.31331453,2473,265161,,,,
+93,Hedley,2019,,,-26.37643247,33.10396595,2088,313127,,,,
+94,Leenhardt,2019,,,-12.37266811,46.40502267,2989,467617,,,,
+95,Trianni,2012,,,-18.06109428,36.87937052,1694,284553,,,,
+96,McCormick,2012,,,-20.08216681,57.7230927,4894,405745,,,,
+97,Martinez-Daranas,2011,,,0.561796615,73.43879851,509,124061,,,,
+98,Shen,2017,,,-6.251971033,72.00807979,3460,500770,,,,
+99,Kuwamura,2017,,,7.335230563,81.79984208,1386,649167,,,,
+100,Hehre,2011,,,8.586187344,78.21764898,3468,17584,,,,
+101,Hodge,2018,,,9.96738256,79.17927143,4902,492209,,,,
+102,Doropoulos,2016,,,-21.00927824,55.59899858,499,502734,,,,
+103,Robbins,2019,,,-19.68788109,63.38136273,3200,496200,,,,
+104,Olds,2021,,,5.069284865,97.09257794,1700,158118,,,,
+105,Belbin,2017,,,12.83029283,92.64590293,928,69370,,,,
+106,Ross,2014,,,10.12098224,104.1203187,3913,265493,,,,
+107,Bogdanov,2010,,,11.27040884,98.2567495,1347,427905,,,,
+108,Hoey,2010,,,16.4711699,96.9995232,3467,426017,,,,
+109,Cameron,2017,,,1.238449438,104.5238637,3385,544826,,,,
+110,McMahon,2013,,,1.506259659,118.6146501,3858,494020,,,,
+111,Shulzitski,2017,,,-2.650202184,108.1059481,12,470536,,,,
+112,Robitzch,2014,,,-3.110471936,122.3800653,4131,654463,,,,
+113,Li,2011,,,-8.884759027,124.7234965,3520,471443,,,,
+114,Hopf,2016,,,-2.43379876,133.0610708,3950,60193,,,,
+115,Nelson,2015,,,-2.773263453,141.4354504,3181,552423,,,,
+116,Frisch,2010,,,-11.35108071,131.9364943,998,634088,,,,
+117,Kubicek,2020,,,-16.81547836,138.3689164,140,632094,,,,
+118,Bozec,2013,,,33.6187535,133.9912252,461,423395,,,,
+119,Kendall,2017,,,41.58102513,140.307622,3793,296658,,,,
+120,Catano,2014,,,34.5119074,126.8533708,54,73990,,,,
+121,Waheed,2013,,,30.99025448,122.1331535,3188,344399,,,,
+122,Weijerman,2012,,,24.62760536,122.0072385,179,157934,,,,
+123,Begin,2015,,,18.43922322,121.849177,4428,343138,,,,
+124,Ong,2013,,,18.59145435,110.4596965,4116,224080,,,,
+125,Richards,2014,,,-20.71460689,149.1418078,416,98393,,,,
+126,Marques,2015,,,-25.04780805,153.3082458,2381,438087,,,,
+127,Johnston,2014,,,-20.78759882,165.0882098,3475,376454,,,,
+128,Ghazilou,2012,,,-36.67157777,175.2671018,3538,368242,,,,
+129,Ritterbush,2010,,,-17.15214458,178.1098467,3792,367846,,,,
+130,Xu,2021,,,-20.82357491,-175.0957641,4473,242319,,,,
+131,Jimenez,2010,,,5.940248831,-55.65551438,4930,590185,,,,
+132,Eastwood,2013,,,5.07145442,-52.4378876,1528,66254,,,,
+133,Bode,2018,,,7.513956897,-58.80136526,2823,578244,,,,
+134,Mayorga-Adame,2013,,,-0.133876353,-49.13856253,1044,13782,,,,
+135,Rogers,2012,,,10.76693762,-61.03769066,2497,600799,,,,
+136,Kruse,2012,,,14.60095704,-60.98066373,1222,12229,,,,
+137,Cinner,2017,,,18.30033877,-66.86665481,3209,116567,,,,
+138,Plass-Johnson,2020,,,17.60208167,-61.74055176,3371,186966,,,,
+139,Mellin,2011,,,19.17624693,-69.26408849,4558,302540,,,,
+140,Champion,2011,,,25.27215769,-76.29124196,1234,427477,,,,
+141,Noges,2021,,,24.8677778,-78.11882649,841,19072,,,,
+142,Thillainath,2016,,,26.50574345,-77.10734914,3689,366006,,,,
+143,Johan,2016,,,-16.28334084,167.6182446,1010,476367,,,,
+144,Silva,2014,,,-7.868021516,159.2905376,788,125579,,,,
+145,Tilley,2013,,,-5.525944305,150.9803827,4399,219112,,,,
+146,Specht,2021,,,32.97220836,129.6107942,669,431936,,,,
+147,Javier Murillo,2010,,,-4.39297925,55.78506722,4145,386680,,,,
+148,Guo,2012,,,-11.53581644,43.44095088,1568,438244,,,,
+149,Galaz,2012,,,15.78594025,-86.03049638,2173,615966,,,,
+150,Aschenbrenner,2014,,,12.36992327,-83.66993825,3302,201312,,,,
+151,Greer,2012,,,17.37764603,-88.35819385,3202,381461,,,,
+152,Lederhouse,2016,,,9.165455044,-82.24705068,389,257916,,,,
+153,Cherubin,2010,,,9.501624753,-79.41860606,1549,620697,,,,
+154,Lee,2019,,,9.968086604,-65.06306257,141,9671,,,,
