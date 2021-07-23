@@ -61,7 +61,7 @@ Use a systematic map process to understand:
 
 convert quantitative ecological scale to a qualitative scale similar to social scale categories
 
-<img src="images/scales.jpg" height="30%" width="30%" />
+<img src="images/scales.jpg" height="50%" width="50%" />
 
 
 #### 3. Data visualisation - better understanding of how to extract the data more effectively ####
@@ -73,15 +73,17 @@ Scale of Actual Extent of Ecological Observation vs Scale of Mangement Inference
 <img src="images/heatmap.jpg" height="50%" width="100%" />
 
 
+
 - Surface plot (3D)
 
-x = Scale of Ecological Observation
-y = Scale of Social Observation 
+x = Scale of Ecological Observation,    
+y = Scale of Social Observation,    
 z = Scale of Management Inference
 
 <img src="images/surfaceplot.jpg" height="50%" width="100%" />
 
 #### Link to interactive plot [click here](https://lab.sesync.org/rstudio/files/reef-fish-sysmap/heat%20map%20incomplete.html) ####
+
 
 
 - Interactive Map 
@@ -90,18 +92,18 @@ Using population density to investigate patterns in scale mismatches between dat
 
 Could also use marine area (EEZ) or GDP
 
-<img src="images/map.jpg" height="50%" width="100%" />
+<img src="images/interactive.jpg" height="50%" width="100%" />
 
 
 ### Lessons Learned: ### 
 
-- How to use git hub effectively
+- How to use Git hub effectively
 
 - How to streamline collaboration platforms
 
-- How to create reproducible workflows --> essential for preparation for next phase of project)
+- How to create reproducible workflows --> essential for preparation for next phase of project
 
-- Re-organising and visualising the data --> new categories will reducte effort needed for metadata extraction
+- Re-organising and visualising the data --> new categories will reduce effort needed for metadata extraction
 
 
 ### New tools: ### 
@@ -139,7 +141,7 @@ Implement some of new tools learned about during workshop:
 
 - Dr. Arielle Levine (San Diego State University, USA) 
 
-- Dr. Adel Heenan (Global Fishing Watch) @AdelHeenan
+- Dr. Adel Heenan (Global Fishing Watch) 
 
 - Dr. Neal R Haddaway (Stockholm Environment Institute) 
 
