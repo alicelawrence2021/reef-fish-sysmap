@@ -38,17 +38,16 @@ datpop <- merge(dat, pop, by = "Country")
 datpop 
 
 
-# global map - colour fill by location and case year
+# global map 
 g.map<-ggplot() +
   geom_polygon( data=mp, aes(x=long, y=lat,  group=group),
                 color= "transparent", fill="grey90", size=0.7)+#,fill=first_year_recorded
   geom_point(data = dat, size=4, alpha = .5, shape = 21, col = 'black',
-             aes(long, lat)) + #fill=Study_ID
-  #geom_point(data = dat, aes(long, lat, size = n_cases, col=first_year_recorded)) + ## add cases as points, sized by number of cases
- # geom_text_repel(data = mp_lab, aes(long, lat, label=n_cases)) + ## add cases number as text
+             aes(long, lat)) + #fill=
+ # geom_text_repel(data = , aes(long, lat, label=)) + ## add labels
   coord_quickmap() + 
   theme_bw() +
-  labs(x = '', y = '',  title='Geographic spread of studies') #+ #,fill = 'N_cases',
+  labs(x = '', y = '',  title='Geographic spread of studies') #+ #,fill = '',
  # scale_color_distiller(type='seq', palette='RdYlGn', na.value = 'grey90', guide='colourbar') 
  # lims(y = c(-70, 80)) + ## tropical latitude ylims, can remove if countries go outside these values
  # theme(legend.position = 'bottom',
