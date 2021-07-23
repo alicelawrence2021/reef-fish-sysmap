@@ -67,21 +67,23 @@ convert quantitative ecological scale to a qualitative scale similar to social s
 
 #### 3. Data visualisation - better understanding of how to extract the data more effectively ####
 
-- Heat map - visualise hotspots 
+- Interactive heat map - visualise hotspots using plot_ly function 
 
-Scale of Actual Extent of Ecological Observation vs Scale of Mangement Inference
+x = Scale of Actual Extent of Ecological Observation 
+
+y = Scale of Mangement Inference
 
 <img src="images/heatmap.jpg" height="50%" width="100%" />
 
 
 
-- Surface plot (3D)
+- Surface plot (3D) - scales of data collection v management inference
 
 x = Scale of Ecological Observation,    
 y = Scale of Social Observation,    
 z = Scale of Management Inference
 
-<img src="images/surfaceplot.jpg" height="50%" width="100%" />
+<img src="images/surfaceplot.jpg" height="40%" width="40%" />
 
 #### Link to interactive plot [click here](https://lab.sesync.org/rstudio/files/reef-fish-sysmap/heat%20map%20incomplete.html) ####
 
@@ -93,9 +95,7 @@ z = Scale of Management Inference
 - Could also use marine area (EEZ) or GDP
 
 - Need more time to automate the conversion factor process into social scale categories
-
 <img src="images/interactive.png" height="50%" width="100%" />
-
 
 ### Lessons Learned: ### 
 
@@ -108,17 +108,19 @@ z = Scale of Management Inference
 - Re-organising and visualising the data --> new categories will reduce effort needed for metadata extraction
 
 
+
 ### New tools: ### 
 
 Implement some of new tools learned about during workshop:
 
-- Colandr app - open access machine learning for conducting systematic reviews (use for location data etc)
+- Colandr app - machine learning for text mining articles (use for location data etc)
 
 - Environmental evidence database - interactive database of systematic maps
 
 - WWF Marine Ecoregions GIS database - data download for use in R
 
 - Contact with Samantha Cheng at American Museum of Natural History (systematic mapping experience)
+
 
 
 ### Next steps: ### 
