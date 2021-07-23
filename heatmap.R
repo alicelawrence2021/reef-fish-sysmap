@@ -57,17 +57,19 @@ p
 
 # surface plot
 
-data <-fread('data/data_subset.csv') 
+data <-fread('data/surfacemap.csv') 
 
-datamatrix <- as.matrix(data) # I think this needs to be a different layout??
+datamatrix <- as.matrix(data) 
 
-p <- plot_ly(x=colnames(data), y=rownames(data), 
-             z = data, 
+p <- plot_ly(x=colnames("eco_actual"), y=rownames("social_method"), 
+             z = datamatrix, 
              type = "surface", 
              colorscale= "Rainbow", 
              showscale = F) %>%
   layout(margin = list(l=120))
 p
+
+
 
 # add legend - this doesnt work? 
 p <- p %>% layout(legend= list(itemsizing='constant'))
