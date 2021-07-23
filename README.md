@@ -6,7 +6,7 @@
 
 #### The spatio-temporal scales of coral reef fish ecological research and management: a systematic evidence map ####
 
-<img src="images/fish.jpg" height="30%" width="50%" />
+<img src="images/intro images.jpg" height="30%" width="50%" />
 
 ### Project Background: ### 
 
