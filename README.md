@@ -2,7 +2,7 @@
 
 ## What's it all about?
 
-### Project Name ###
+### Project Name: ###
 
 The spatio-temporal scales of coral reef fish ecological research and management: a systematic evidence map
 
@@ -15,7 +15,7 @@ The spatio-temporal scales of coral reef fish ecological research and management
 - Understand the mismatches between the scale of empirical observations (ecological & social) AND 
 that scale at which management inferences are made
 
-- Identify gaps in evidence base – systematic, transparent and repeatable
+- Identify gaps in evidence base, in a  systematic, transparent and repeatable way
 
 #### Methods protocol published January 2021, [read here](rdcu.be/cecKn) ####
 
