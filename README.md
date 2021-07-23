@@ -42,12 +42,12 @@ Use a systematic map process to understand:
 
 from this...
 
-<img src="images/metadata.jpg" height="50%" width="80%" />
+<img src="images/metadata.jpg" height="50%" width="100%" />
 
 
 to this...
 
-<img src="images/simple.jpg" height="50%" width="80%" />
+<img src="images/simple.jpg" height="50%" width="100%" />
 
 
 
@@ -55,7 +55,7 @@ to this...
 
 convert quantitative ecological scale to a qualitative scale similar to social scale categories
 
-<img src="images/scales.jpg" height="50%" width="80%" />
+<img src="images/scales.jpg" height="30%" width="30%" />
 
 
 3. Data visualisation - better understanding of how to extract the data more effectively
