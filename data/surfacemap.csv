@@ -1,0 +1,12 @@
+,social_method,social_mgmt,eco_actual,eco_total
+1_Individual,11,0,9,0
+2_Household,8,0,4,1
+3_Village   ,11,2,7,4
+4_Community,5,0,4,2
+5_User groups,8,1,5,3
+6_Watershed,4,0,6,3
+7_Sub-Regional,4,6,12,5
+8_State ,5,2,6,11
+9_National,4,2,2,10
+10_Regional ,1,45,6,12
+11_International ,0,3,0,10
