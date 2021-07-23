@@ -40,6 +40,7 @@ Use a systematic map process to understand:
 1. Data organisation 
 2. Solutions for integrating qualitative and quantitative data
 3. Data visualisation 
+4. Automated conversion factor
 
 
 #### 1. Data organisation ####
@@ -85,12 +86,13 @@ z = Scale of Management Inference
 #### Link to interactive plot [click here](https://lab.sesync.org/rstudio/files/reef-fish-sysmap/heat%20map%20incomplete.html) ####
 
 
+#### 4. Conversion Factors #### 
 
-- Interactive Map 
+- Using population density to investigate patterns in scale mismatches between data collection and management inferences 
 
-Using population density to investigate patterns in scale mismatches between data collection and management inferences 
+- Could also use marine area (EEZ) or GDP
 
-Could also use marine area (EEZ) or GDP
+- Need more time to automate the conversion factor process into social scale categories
 
 <img src="images/interactive.jpg" height="50%" width="100%" />
 
