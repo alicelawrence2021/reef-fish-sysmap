@@ -20,12 +20,12 @@ Use a systematic map process to understand:
 
 #### Methods protocol published January 2021, [click here to read](rdcu.be/cecKn) ####
 
-<img src="images/paper.jpg" height="30%" width="80%" />
+<img src="images/paper.jpg" height="30%" width="100%" />
 
 
 ### Systematic Map Process: ### 
 
-<img src="images/process.jpg" height="50%" width="80%" />
+<img src="images/process.jpg" height="50%" width="100%" />
 
 
 ### Goals for the week: ### 
@@ -37,10 +37,14 @@ Use a systematic map process to understand:
 
 ### Workflow: ### 
 
+1. Data organisation 
+2. Solutions for integrating qualitative and quantitative data
+3. Data visualisation 
 
-1. Data organisation - focus on key categories
 
-from this...
+## 1. Data organisation ## 
+
+- focus on key categories...from this...
 
 <img src="images/metadata.jpg" height="50%" width="100%" />
 
@@ -65,7 +69,6 @@ convert quantitative ecological scale to a qualitative scale similar to social s
 - heat map
 - surface plot - 3D
 - map - Using population/ marine area to investigate patterns in scale mismatches between data collection and management inferences (how different in smaller island states). Possibly use GDP to identify differences related to the economy.
-
 
 
 ### Lessons Learned: ### 
@@ -94,7 +97,7 @@ convert quantitative ecological scale to a qualitative scale similar to social s
 ***tools learned about
 - colandr
 - machine learning - easy data extraction e.g. locations
-- Environmental evidence database
+- Environmental evidence database - interactive map - database similar to this?
 
 ****collaboration / contacts
 
