@@ -94,7 +94,7 @@ z = Scale of Management Inference
 
 - Need more time to automate the conversion factor process into social scale categories
 
-<img src="images/interactive.jpg" height="50%" width="100%" />
+<img src="images/interactive.png" height="50%" width="100%" />
 
 
 ### Lessons Learned: ### 
